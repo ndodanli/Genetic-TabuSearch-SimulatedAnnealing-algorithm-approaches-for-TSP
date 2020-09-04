@@ -1,0 +1,14 @@
+NAME : cities10
+DIMENSION : 10
+NODE_COORD_SECTION
+1.sehir 5900 1561
+2.sehir 4483 1369
+3.sehir 6101 510
+4.sehir 3484 1829
+5.sehir 3082 1644
+6.sehir 6271 2135
+7.sehir 7573 3716
+8.sehir 3245 3305
+9.sehir 10 2676
+10.sehir 5185 1758
+EOF
